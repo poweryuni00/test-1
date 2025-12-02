@@ -75,3 +75,5 @@
 [네이버](http://www.naver.com)
 
 [네이버](http://www.naver.com, "네이버 홈페이지로 이동합니다.")
+
+![크리스마스](thumb_l_298A5AB11350DA0CD9FC7E6DF9D64955.png)
